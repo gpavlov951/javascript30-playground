@@ -1,3 +1,3 @@
 # JavaScript 30 Playground
 
-[JavaScript 30](https://javascript30.com/)
+My version of the tasks from [JavaScript 30](https://javascript30.com/)
